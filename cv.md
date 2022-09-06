@@ -58,6 +58,6 @@ function inArray(value, mass) {
 * RS Schools Course «JavaScript/Front-end Stage 0»
 ************
 ### Languages:
-* English - Pre-Intermediate/Intermediate
+* English - Pre-Intermediate
 * Russian - Native
 * Belorussian - Intermediate
