@@ -52,3 +52,12 @@ function inArray(value, mass) {
  console.log(inArray(9, mass));
 ~~~
 ************
+### Courses:
+* A course of video lessons on html, css, js on YouTube
+* Solving JavaScript examples in old.code
+* RS Schools Course «JavaScript/Front-end Stage 0»
+************
+### Languages:
+* English - Pre-Intermediate/Intermediate
+* Russian - Native
+* Belorussian - Intermediate
